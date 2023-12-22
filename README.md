@@ -20,4 +20,4 @@ We will be building a real-time data streaming pipeline with multiple datasets w
 
 
 High Level System Architecture Diagram:
-
+https://github.com/snehac-miner/real-time-data-streaming-pipeline-dashboard/blob/main/high_level_architecture_diagram
